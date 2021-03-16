@@ -22,7 +22,6 @@
 @nord10: #5e81ac; @nord14: #a3be8c;
                     @nord15: #b48ead;
 
-@import "https://github.com/TaleWatcher/webnovel-nord/raw/main/nord.less";
 @-moz-document domain("www.webnovel.com") {
     body {
         background-color: @nord0;
