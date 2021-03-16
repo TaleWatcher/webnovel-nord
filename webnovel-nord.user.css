@@ -25,7 +25,7 @@
 @-moz-document domain("www.webnovel.com") {
     body {
         background-color: @nord0;
-        > header {
+        .bc_fff {
             background-color: @nord0;
         }
     }
