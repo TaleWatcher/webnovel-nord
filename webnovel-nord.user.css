@@ -9,6 +9,19 @@
 @license      MIT
 @preprocessor less
 ==/UserStyle== */
+
+// Polar Night      // Snow Storm
+@nord0:  #2e3440; @nord4:  #d8dee9;
+@nord1:  #3b4252; @nord5:  #e5e9f0;
+@nord2:  #434c5e; @nord6:  #eceff4;
+@nord3:  #4c566a;
+// Frost            // Aurora
+@nord7:  #8fbcbb; @nord11: #bf616a;
+@nord8:  #88c0d0; @nord12: #d08770;
+@nord9:  #81a1c1; @nord13: #ebcb8b;
+@nord10: #5e81ac; @nord14: #a3be8c;
+                    @nord15: #b48ead;
+
 @import "https://github.com/TaleWatcher/webnovel-nord/raw/main/nord.less";
 @-moz-document domain("www.webnovel.com") {
     body {
