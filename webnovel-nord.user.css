@@ -1,0 +1,17 @@
+/* ==UserStyle==
+@name         Webnovel Nord Theme
+@description  A dark webnovel theme using the nord colour palette
+@namespace    github.com/TaleWatcher/webnovel-nord
+@version      0.1.0
+@author       TaleWatcher (https://github.com/eight04)
+@homepageURL  https://github.com/TaleWatcher/webnovel-nord
+@supportURL   https://github.com/TaleWatcher/webnovel-nord/issues
+@license      MIT
+@preprocessor less
+==/UserStyle== */
+@import "./nord.less";
+@-moz-document domain("www.webnovel.com") {
+    body {
+        background-color: @nord0;
+    }
+}
