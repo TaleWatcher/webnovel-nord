@@ -9,7 +9,7 @@
 @license      MIT
 @preprocessor less
 ==/UserStyle== */
-@import "./nord.less";
+@import "https://github.com/TaleWatcher/webnovel-nord/raw/main/nord.less";
 @-moz-document domain("www.webnovel.com") {
     body {
         background-color: @nord0;
