@@ -30,7 +30,7 @@
     .bc_primary        {background-color: @nord2;}
     ._dark             {background-color: @nord3;}
     .bt                {background-color: @nord10; background-image: linear-gradient(90deg, @nord9, @nord10);}
-    .m-1012-item:hover,
+    .m-1012-item:hover, .g_search:hover,
     .g_footer          {.bc_light_default();}
     // Colour
     .c_l, .c_000      {color: @nord6;}
