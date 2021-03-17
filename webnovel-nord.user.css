@@ -37,11 +37,12 @@
     .c_m              {color: @nord5;}
     .c_s              {color: @nord4;}
     .c_primary        {color: @nord10;}
-    .c_000, .det-hd-detail a,
+    .c_000, .det-tab-nav a._on span, .det-hd-detail a,
     .det-hd-detail strong    {.c_l();}
+    .g_star_num small, .g_tab_nav a._on, .m-comment-tool,
     .g_hd_link               {.c_m();}
     .g_search, .m-comment-bd {.c_s();}
-    a, .bt._link, .g_search:hover, .g_hd_link:hover,
+    a, .bt._link, .g_search:hover, .g_hd_link:hover, .g_tab_nav a._on:hover
     .t_button1         {.c_primary();}
     // Border
     .g_search         {border-color: @nord6;}
