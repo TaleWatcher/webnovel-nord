@@ -33,10 +33,12 @@
     .m-1012-item:hover, .g_search:hover, .det-hd,
     .g_footer          {.bc_light_default();}
     // Colour
-    .c_l, .c_000      {color: @nord6;}
+    .c_l              {color: @nord6;}
     .c_m              {color: @nord5;}
     .c_s              {color: @nord4;}
     .c_primary        {color: @nord10;}
+    .c_000, .det-hd-detail a,
+    .det-hd-detail strong    {.c_l();}
     .g_hd_link               {.c_m();}
     .g_search, .m-comment-bd {.c_s();}
     a, .bt._link, .g_search:hover, .g_hd_link:hover,
