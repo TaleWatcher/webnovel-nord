@@ -33,5 +33,5 @@
     .c_l              {color: @nord6;}
     .c_m              {color: @nord5;}
     .c_s              {color: @nord4;}
-    .g_hd_link        {color: .c_m();}
+    .g_hd_link        {.c_m();}
 }
