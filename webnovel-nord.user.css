@@ -39,6 +39,6 @@
     .c_primary        {color: @nord10;}
     .g_hd_link               {.c_m();}
     .g_search, .m-comment-bd {.c_s();}
-    a, .bt._link,
+    a, .bt._link, .g_search:hover,
     .t_button1         {.c_primary();}
 }
