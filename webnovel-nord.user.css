@@ -31,4 +31,5 @@
     ._dark            {background-color: @nord3;}
     // Text Colour
     .c_l              {color: @nord6;}
+    .c_m              {color: @nord5;}
 }
