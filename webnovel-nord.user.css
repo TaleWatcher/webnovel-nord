@@ -32,4 +32,5 @@
     // Text Colour
     .c_l              {color: @nord6;}
     .c_m              {color: @nord5;}
+    .c_s              {color: @nord4;}
 }
