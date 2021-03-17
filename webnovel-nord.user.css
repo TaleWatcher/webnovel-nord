@@ -29,7 +29,7 @@
     .bc_light_default  {background-color: @nord1;}
     .bc_primary        {background-color: @nord2;}
     ._dark             {background-color: @nord3;}
-    .m-1012-item:hover {.bc_fff();}
+    .m-1012-item:hover,
     .g_footer          {.bc_light_default();}
     // Text Colour
     .c_l, .c_000      {color: @nord6;}
