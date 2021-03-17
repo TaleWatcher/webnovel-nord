@@ -42,7 +42,7 @@
     .g_star_num small, .g_tab_nav a._on, .m-comment-tool,
     .g_hd_link               {.c_m();}
     .g_search, .m-comment-bd {.c_s();}
-    a, .bt._link, .g_search:hover, .g_hd_link:hover, .g_tab_nav a._on:hover
+    a, .bt._link, .g_search:hover, .g_hd_link:hover, .g_tab_nav a._on:hover,
     .m-comment-tool:hover, .t_button1 {.c_primary();}
     // Border
     .g_search         {border-color: @nord6;}
