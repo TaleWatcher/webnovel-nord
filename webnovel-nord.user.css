@@ -35,6 +35,9 @@
     .c_l, .c_000      {color: @nord6;}
     .c_m              {color: @nord5;}
     .c_s              {color: @nord4;}
+    .c_primary        {color: @nord10;}
     .g_hd_link               {.c_m();}
     .g_search, .m-comment-bd {.c_s();}
+    .bt._link,
+    .t_button1         {.c_primary();}
 }
