@@ -24,7 +24,7 @@
 
 @-moz-document domain("www.webnovel.com") {
     button, html, input, select, textarea {.bc_fff(); .c_l();}
-    // Background Colour
+    // Background
     .bc_fff            {background-color: @nord0;}
     .bc_light_default  {background-color: @nord1;}
     .bc_primary        {background-color: @nord2;}
@@ -32,7 +32,7 @@
     .bt                {background-color: @nord10;}
     .m-1012-item:hover,
     .g_footer          {.bc_light_default();}
-    // Text Colour
+    // Colour
     .c_l, .c_000      {color: @nord6;}
     .c_m              {color: @nord5;}
     .c_s              {color: @nord4;}
